@@ -41,6 +41,6 @@
     grid-column: 3 / 5;
 }
 
-.symbol {
+.symbol, .equal {
     background-color: #be9b7b !important; 
 }
